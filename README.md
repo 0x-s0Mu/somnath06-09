@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somnath06-09
-- 👀 I’m interested in Ethical Hacking and Web3 + AI
+- 👀 I’m interested in Ethical Hacking , cryptography 
 - 🌱 I’m currently learning Kali Linux
 - 💞️ I’m looking to collaborate with good progressive people
 - 📫 How to reach me -- sebaitsom6297@gmail.com  my gmail
