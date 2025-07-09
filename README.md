@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @somnath06-09
-- 👀 I’m interested in Ethical Hacking , cryptography 
-- 🌱 I’m currently learning Kali Linux
+- 👋 Hi, I’m @0x-s0Mu
+- 👀 I’m interested in Ethical Hacking , cryptography , Red team engagements, malware, Real life cyber attack analysis.
+- 🌱 I’m currently studying about different attack tactics, advanced penetration-testing.
 - 💞️ I’m looking to collaborate with good progressive people
 - 📫 How to reach me -- sebaitsom6297@gmail.com  my gmail
 
